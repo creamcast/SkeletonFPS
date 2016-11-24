@@ -16,7 +16,7 @@ https://rawgit.com/creamcast/SkeletonFPS/master/HTML5/RPG.html
 * R - Reload
 * SPACE - JUMP
 
-Choosing level 30 will go to the built in editor. There are about 9 levels start from level 1.
+Choosing level 30 will go to the built in editor. There are about 9 levels. Start from level 1, collect all gems to open the portal.
 
 # Guidebook
 
