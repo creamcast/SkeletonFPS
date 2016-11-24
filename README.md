@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=6mdRX6p5UFM
 # DEMO (Chrome or Firefox)
 https://rawgit.com/creamcast/SkeletonFPS/master/HTML5/RPG.html
 
+Note: some graphics may not display properly in some browsers. I reccomend downloading the source code and running it in agk2 
+
 # CONTROLS
 * WASD - move + strafe
 * J - turn left
